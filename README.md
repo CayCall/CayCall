@@ -1,5 +1,5 @@
-<h2 align="left"># 👋 Hey there! I'm Caleb<br><br>🎓 I'm a final-year **Honours Digital Art student** passionate about building modern web apps and solving real-world problems through code.  <br>I currently work as a **Python Programming Trainer** at **LOGISCOOL (PTY) LTD**, where I help young minds explore the world of coding and digital thinking.<br><br>---<br><br>
-### Aspiring Full Stack Developer<br><br>I'm working toward becoming a **Full Stack Developer** with a strong foundation in both front-end and back-end technologies, developed during the course of my degree. I love creating seamless user experiences and scalable backend systems.<br><br>---<br><br>
+<h2 align="left"> 👋 Hey there! I'm Caleb<br><br>🎓 I'm a final-year Honours Digital Art student passionate about building modern web apps and solving real-world problems through code.  <br>I currently work as a Python Programming Trainer at LOGISCOOL (PTY) LTD, where I help young minds explore the world of coding and digital thinking.<br><br>---<br><br>
+### Aspiring Full Stack Developer<br><br>I'm working toward becoming a Full Stack Developer with a strong foundation in both front-end and back-end technologies, developed during the course of my degree. I love creating seamless user experiences and scalable backend systems.<br><br>---<br><br>
 ###</h2>
 
 ###
