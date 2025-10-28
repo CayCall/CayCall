@@ -1,7 +1,7 @@
 <h2 align="left"> I am Caleb Calvin.</h2>
 
 
-<p align="left">A final-year Honours student passionate about building modern web apps and solving real-world problems through code.  <br>I currently work as a Python Programming Trainer at LOGISCOOL (PTY) LTD, where I help young minds explore the world of coding and digital thinking.<br>I aspire to be a Full Stack Developer <br>I'm working toward becoming a Full Stack Developer with a strong foundation in both front-end and back-end technologies, developed during the course of my degree. I love creating seamless user experiences and scalable backend systems.</p>
+<p align="left">A final-year Honours student passionate about building modern web apps and solving real-world problems through code.  <br> <br>I currently work as a Python Programming Trainer at LOGISCOOL (PTY) LTD, where I help young minds explore the world of coding and digital thinking. <br><br>I aspire to be a Full Stack Developer  <br><br>I'm working toward becoming a Full Stack Developer with a strong foundation in both front-end and back-end technologies, developed during the course of my degree. I love creating seamless user experiences and meaningful digital experiences, that resonate with people.</p>
 
 <h2 align="center">Languages:</h2>
 
